@@ -1,2 +1,12 @@
 # Abdul
-It is created for learning purpose
+#It is created for learning purpose
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Three Tier App</title>
+</head>
+<body>
+    <h1>Welcome to the Frontend!</h1>
+</body>
+</html>
+
